@@ -6,6 +6,7 @@
 - **完全离线**：无需网络连接，离线运行，确保隐私，~~可破限~~。
 - **自由定制**：代码仅两百多行，配置均为明文，可自由定制性格，修改音色，扩展开发。
 - **多语言**：聊天自带中日英等多语言支持（依赖底模和gpt-sovits）。
+- **[视频演示](https://www.bilibili.com/video/BV1q4PoexErT/?share_source=copy_web&vd_source=897cef876071534f1ef0f9058219905f)**。
 ## 环境要求
 - **Python**: 任意[python](https://www.python.org/downloads/)环境。
 - **Ollama**：安装phi4模型并运行。默认服务端口"http://localhost:11434/api"。
